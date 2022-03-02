@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+}
+.box1 {
+  background: lightseagreen;
+}
+
+.box2 {
+  background: lightgreen;
+}
+.box3 {
+  background: rgb(0, 153, 255);
+}
+.box4 {
+  background: violet;
+}
+.box5 {
+  background: rgb(0, 0, 63);
+}
+.box6 {
+  background: rgb(216, 185, 10);
+}
+.box7 {
+  background: rgb(236, 129, 96);
+}
+.box8 {
+  background: red;
+}
+.box9 {
+  background: darkgray;
+}
+.box10 {
+  background: gray;
+}
+
+.box {
+  width: 200px;
+  height: 70px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.container3 {
+  display: flex;
+  flex-direction: row;
+}
